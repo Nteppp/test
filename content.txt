@@ -8,3 +8,4 @@ white
 cyan
 white
 magenta
+purple
