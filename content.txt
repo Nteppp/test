@@ -9,3 +9,4 @@ cyan
 white
 magenta
 purple
+pink
