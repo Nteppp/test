@@ -3,10 +3,4 @@ green
 blue
 yellow
 brown
-black
-white
-cyan
-white
-magenta
-purple
-pink
+
