@@ -6,5 +6,3 @@ brown
 black
 white
 cyan
-white
-magenta
